@@ -14,3 +14,4 @@ a script that adds execute permission to all subdirectories of the current direc
  a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
  -rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
  a script that sets the mode of the file hello the same as olleh’s mode
+a script that adds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users.
