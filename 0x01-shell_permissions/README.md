@@ -9,3 +9,4 @@ a script that adds execution permission to the owner, the group owner and the ot
  a script that sets the permission to the file hello asOwner: no permission at all
 Group: no permission at all
 
+-rwxr-x-wx 1 julien julien 23 Sep 20 14:25 hello
