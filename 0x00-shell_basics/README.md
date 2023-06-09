@@ -11,3 +11,4 @@ a script that changes the working directory to the previous one
 a script that lists all files
   a script that prints the type of the file named 
 a symbolic link to /bin/ls, named __ls__
+copy html files
