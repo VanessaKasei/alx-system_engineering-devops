@@ -9,3 +9,4 @@ Move the file betty from /tmp/ to /tmp/my_first_directory
 Delete the file betty
 a script that changes the working directory to the previous one
 a script that lists all files
+  a script that prints the type of the file named 
