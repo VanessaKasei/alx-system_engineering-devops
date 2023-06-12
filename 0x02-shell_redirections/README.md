@@ -5,3 +5,4 @@ Display the last 10 lines of /etc/passwd
 
  display first 10 lines of /etc/passwd
 display the third line of a file
+save current state of directory
